@@ -1,0 +1,3 @@
+[submodule "repo_number_2"]
+	path = repo_number_2
+	url = https://github.com/NoamGalinsky/repo_number_2.git
